@@ -18,7 +18,3 @@ First microverse Project in Module 1
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 🤝 Contributing
-
-Feedback, corrections and suggesstions are welcome!
